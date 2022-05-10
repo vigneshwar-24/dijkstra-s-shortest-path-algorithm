@@ -283,20 +283,20 @@ print("Total Distance={0} Kilometers".format(goal_state_path.path_cost))
 ## OUTPUT:
 <img width="329" alt="00" src="https://user-images.githubusercontent.com/77089276/167677566-3b3ecc60-7b24-484b-8525-488f1339c765.PNG">
 
-### Route Problem r0 and r1
+## Route Problem r0 and r1
 <img width="468" alt="01" src="https://user-images.githubusercontent.com/77089276/167677782-296a44d4-782b-4407-906e-0d9e7273ee9c.PNG">
 
-### Route Problem r2
+## Route Problem r2
 <img width="429" alt="2" src="https://user-images.githubusercontent.com/77089276/167677861-0728bf82-3892-45f7-9dec-b2bb9e1eb0ef.PNG">
-### Route Problem r3
+##   Route Problem r3
 <img width="430" alt="3" src="https://user-images.githubusercontent.com/77089276/167677923-70a1aaa9-9219-4cb3-ba35-b4c6d63bd00f.PNG">
-### Route Problem r4 and r5
+##   Route Problem r4 and r5
 <img width="440" alt="45" src="https://user-images.githubusercontent.com/77089276/167677963-de6a120e-3112-4473-80ce-6b002b4ac246.PNG">
- ### Route Problem r6 and r7
+##   Route Problem r6 and r7
  <img width="493" alt="67" src="https://user-images.githubusercontent.com/77089276/167678097-a37e58fa-c4c2-4259-824c-d36c49170493.PNG">
-### Route Problem r8
+##   Route Problem r8
  <img width="506" alt="8" src="https://user-images.githubusercontent.com/77089276/167678167-fe426b56-84fd-448e-bde9-dc49169546fd.PNG">
-### Route Problem r9
+##   Route Problem r9
 <img width="454" alt="9" src="https://user-images.githubusercontent.com/77089276/167678221-bdcbb1da-328a-4dd8-9237-d1691f67ab56.PNG">
  
 
