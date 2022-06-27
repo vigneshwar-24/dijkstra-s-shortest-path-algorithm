@@ -1,4 +1,4 @@
-### EX.NO: 02
+### EX.NO: 03
 ### DATE: 10-05-2022
 # Dijkstra's Shortest Path Algorithm
 ## AIM
