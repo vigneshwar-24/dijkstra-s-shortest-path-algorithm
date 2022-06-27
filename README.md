@@ -1,3 +1,5 @@
+### EX.NO: 02
+### DATE: 28-04-2022
 # Dijkstra's Shortest Path Algorithm
 ## AIM
 
@@ -19,7 +21,6 @@ Start from the initial node and put it in the ordered list.
 
 ### STEP 4:
 Repeat the next steps until the GOAL node is reached:
-
 a) If the list is empty, then EXIT the loop returning ‘False’
 b) Select the first/top node in the list and move it to the another list. Also, consider the information of the parent node.
 c) If the selected node is a GOAL node, then move the node to the list and exit the loop returning ‘True’. The solution can be found by backtracking the path.
@@ -29,11 +30,11 @@ d) If the selected node is not the GOAL node, expand node to generate the ‘imm
 ![1](https://user-images.githubusercontent.com/77089276/167672801-2e0e6e69-d8a0-49d3-8767-57bcdbbfb4d6.jpg)
 
 ## PROGRAM
+```python
+DEVELOPED BY: VIGNESHWAR S
+REGISTER NO: 212220230058
 ```
-Student name: Vigneshwar S
-Reg. No.: 212220230058
-```
-```
+```python
 %matplotlib inline
 import matplotlib.pyplot as plt
 import random
